@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9a6081f83c56e64a8c881ae754a17c1, type: 3}
+  m_Name: NewAnomaly
+  m_EditorClassIdentifier: 
+  NameAnomaly: Electro
+  SkinAnomaly: {fileID: 7614867211413683879, guid: 37c01bfb4d1faed428f3173e83f4b53a, type: 3}
+  AnomalyType: 0
+  Artifacts:
+  - item: {fileID: 11400000, guid: 2c52f9be9c5dc8e4db8dcc327c6a1c4e, type: 2}
+    probability: 25

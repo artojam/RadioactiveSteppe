@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a11a64dc9d4d092458a6d7b18636bf78, type: 3}
+  m_Name: Gun
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 1291291537, guid: 15dad8b70bff44547bcbb6bdc639afc2, type: 3}
+  <Name>k__BackingField: "\u043F\u0438\u0441\u0442\u043E\u043B\u0435\u0442 M1119"
+  <Info>k__BackingField: Not
+  <MaxAmount>k__BackingField: 1
+  <Weight>k__BackingField: 1
+  <Cost>k__BackingField: 500
+  <ItemType>k__BackingField: 2
+  <IsUse>k__BackingField: 1
+  <ID>k__BackingField: 1
+  sprite: {fileID: 1291291537, guid: 15dad8b70bff44547bcbb6bdc639afc2, type: 3}
+  Damage: {x: 12, y: 15}
+  CriticalDamage: 25
+  ProbabilityCriticalDamage: 25
+  TypeWeapon: 0
+  CountBulletMax: 8
+  NumberOfShots: 2
+  MaxDurability: 250
+  Bullet: {fileID: 11400000, guid: bafb1c90f5b414741967c57705edfc61, type: 2}
